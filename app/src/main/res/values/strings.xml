@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather app</string>
+
+    <string name="temp">%2$s *</string>
+    <string name="humidity">%2$s %</string>
+    <string name="wind">%2$s k/h</string>
+    <string name="url"><u>%1$s</u></string>
+</resources>
